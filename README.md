@@ -21,7 +21,7 @@ Step 5: Replace “# Insert shell script code” with your code
 
 Step 6: Open “Resources”, and replace app.icns with your logo [It must be an ICNS file and it must be called “app.icns”]
 
-Step 7: Open Terminal and CD into the MacOS folder
+Step 7: Open Terminal and CD into the MacOS folder of your application
 
 Step 8: Run the following command: “chmod u+x main.command”
 
