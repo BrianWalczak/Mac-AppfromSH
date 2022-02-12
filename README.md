@@ -28,3 +28,17 @@ Step 8: Run the following command: “chmod u+x main.command”
 Step 9: Drag your application to /Applications
 
 Step 10: Launch your application!
+
+## Troubleshooting
+### When launching your app, you might get the following error - "Cannot be opened because it is from an unidentified developer"
+### In order to resolve this issue, complete the instructions below:
+
+Step 1: Open System Preferences
+
+Step 2: Click "Security & Privacy"
+
+Step 3: Go to the "General" tab
+
+Step 4: Click "Open Anyway"
+
+Step 5: Click "Open" on the popup
