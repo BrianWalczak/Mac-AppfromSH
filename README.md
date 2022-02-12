@@ -9,8 +9,8 @@ Mac-AppfromSH is a GitHub repository which allows you to make a Mac application 
 
 ### Usage with code installation [Recommended]
 
-Step 1: Download this repository and extract the ZIP
-Step 2: Rename "Example App" to your app name. Then, right-click “Example App”, and click Show Package Contents
+Step 1: Download the latest release [Application Template] and extract ExampleApp.app.zip
+Step 2: Rename "ExampleApp.app" to your app name. Then, right-click the app, and click Show Package Contents
 Step 3: Open “Contents”, info.plist and replace all “REPLACESTRING”s with your details
 Step 4: Open “MacOS”, and edit main.command and replace all “REPLACESTRING”s with your details
 Step 5: Replace “# Insert shell script code” with your code
