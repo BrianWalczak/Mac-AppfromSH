@@ -4,7 +4,7 @@
 ## What's this?
 Mac-AppfromSH is a GitHub repository which allows you to make a Mac application [.app] from an SH [.sh] file
 
-###.sh > .app
+### .sh > .app
 
 ## How is this possible?!
 Offlinication uses Service Workers to run without an internet connection.
